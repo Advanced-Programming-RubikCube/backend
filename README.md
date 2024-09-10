@@ -1,2 +1,2 @@
 # backend
-This is the repository for the backend of my advanced programming project!
+This is the repository for the python backend of my advanced programming project!
